@@ -2,10 +2,11 @@
 
 Attempt to make Dreambooth work on less than 16Go AWS G4 & P3 instances (Nvidia T4 and P100 GPUs)
 
-Update: It works using the script that I provided, on a Sagemaker Notebook
+Update: It works on a Sagemaker Notebook, using the script that I provided.
 
 TODO:
 
+- Make it work on a Notebook in sagemaker ✅
 - Container for the training
 - Try to make it compatible with Sagemaker for training and inference
 -  Cloudformation template to deploy the MLOps pipeline (Step Function workflow)
