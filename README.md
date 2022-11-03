@@ -4,6 +4,12 @@ Attempt to make Dreambooth work on less than 16Go AWS G4 & P3 instances (Nvidia 
 
 Update: It works on a Sagemaker Notebook, using the script that I provided.
 
+
+## Disclamer
+Even though I work at AWS, this is a personal project and not an official implementation from AWS. It might not follow the latest best practices or might contain errors. 
+Using the code in this repository will trigger charges in your AWS account (S3, Sagemaker, EC2, Networking ...). Use at your own risk. 
+
+
 TODO:
 
 - Make it work on a Notebook in sagemaker ✅
