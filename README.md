@@ -1,8 +1,8 @@
 # dreambooth
 
-Quick and dirty WIP implementation using forked from the Hugging Face colab . https://huggingface.co/sd-dreambooth-library
+Attempt to make Dreambooth work on less than 16Go AWS G4 & P3 instances (Nvidia T4 and P100 GPUs)
 
-If this works I'll make a cleaner version 
+Update: It works using the script that I provided, on a Sagemaker Notebook
 
 TODO:
 
